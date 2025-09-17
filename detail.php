@@ -76,7 +76,7 @@ function timeago($date) {
 ?>
 <!DOCTYPE html>
 <html>
-<title>Café Recommendation System</title>
+<title>Café Recommendation System jw </title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="w3.css">
