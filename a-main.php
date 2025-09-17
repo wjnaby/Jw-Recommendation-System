@@ -74,7 +74,7 @@ body, html {
 		<div class="w3-padding w3-padding-16">
 			<div class="w3-card w3-padding w3-round w3-white">
 				<div class="w3-xlarge w3-padding-24 w3-padding" >
-					<div class="w3-padding">Welcome, Admin</div>
+					<div class="w3-padding">Welcome, Admin1</div>
 				</div>
 				
 				<div class="w3-row w3-padding-24">
